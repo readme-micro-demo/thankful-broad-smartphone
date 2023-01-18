@@ -28,7 +28,7 @@ tags:
     description: Operations about user
     externalDocs:
       description: Find out more about our store
-      url: http://swagger.io
+      url: http://swagger.io - made a change
 paths:
   '/pet':
     post:
